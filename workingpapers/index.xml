@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Gianluca Russo</title>
+    <link>/workingpapers/</link>
+      <atom:link href="/workingpapers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>/workingpapers/</link>
+    </image>
+    
+    <item>
+      <title>WWI and the rise of Fascism in Italy: Evidence from La Vittoria Mutilata</title>
+      <link>/workingpapers/wwi/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/workingpapers/wwi/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;One of the key steps that allowed Mussolini to become the Italian Duce was the victory in the 1924 national elections. I study the impact of World War I on Mussolini&amp;rsquo;s electoral success. To gauge the effect of the war, I construct a measure of military casualties from the universe of Italian municipalities, which is matched to municipal level voting in the 1924 election. Controlling for the number of military drafted in an Italian municipality, variation in the share of casualties is induced by military events exogenous to municipality characteristics that could simultaneously affect support for Fascism. Using this conditional independence approach, I find that a higher share of casualties increases the vote share for Fascism. More than half of the increase in the vote share for Mussolini is matched by a decrease in the vote share of the Socialist party. I decompose the effect of the casualties rate by its intensity to show that the number of casualties interacted positively with the number of veterans back from the frontline. I interpret this as evidence that Fascist support was driven by municipalities where the high number of casualties was matched by veterans militarized and brutalized by the war experience.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mass Media and Cultural Assimilation: Broadcasting the American Dream on Radio</title>
+      <link>/workingpapers/radio/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/workingpapers/radio/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Does media shape culture? I leverage the expansion of radio networks in the United States to identify the impact of access to mass media on cultural assimilation and homogenization. I reconstruct radio network access via a signal propagation model suitable to AM radio, the only radio technology available at the time. I determine what radio channels were available to American households by feeding the propagation model with newly digitized data on the universe of transmitting stations during the interwar period. I combine radio network coverage with several measures of cultural change based on naming patterns for children. Exploiting exogenous variation in radio signal reception induced by soil characteristics and stations&amp;rsquo; tower growth over time, I provide evidence that network access homogenized American culture. Homogenization occurred through the assimilation of white immigrant and black households towards mainstream white native culture. Assimilation is strongest for immigrant families: foreign parents were six percent more likely to name their sons using popular white names after network access. Focusing on names from baseball players, I suggest that aspirational naming is a key mechanism to explain certain features of the results. While foreign households picked from the full distribution of baseball names, native families chose names exclusively from the most successful, those featured in the All-Star games. Thus, in addition to diffusing information, the radio has subtler effects, increasing the likelihood of &amp;ldquo;naming for success&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
