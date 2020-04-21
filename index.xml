@@ -7,7 +7,7 @@
     <description>Gianluca Russo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Mar 2020 14:42:45 -0400</lastBuildDate>
     <image>
-      <url>https://gianlucarusso.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://gianlucarusso.github.io/images/icon_hu98c83ca92acbb120fc78fd5a852db45d_58224_512x512_fill_lanczos_center_2.png</url>
       <title>Gianluca Russo</title>
       <link>https://gianlucarusso.github.io/</link>
     </image>
@@ -33,12 +33,39 @@
     </item>
     
     <item>
+      <title>Regulating Child Labor: Evidence from the US Progressive Era</title>
+      <link>https://gianlucarusso.github.io/workingpapers/cll/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://gianlucarusso.github.io/workingpapers/cll/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;From 1880 to 1920, child labor in the United States fell dramatically. At the same time, most states passed laws regulating minimum working ages. Past quantitative work based on census samples have yielded mixed results on the efficacy of these laws and historians have questioned whether the politically powerful employers of children would allow such regulation if child labor was in high demand. Turning to the newly-digitized complete count census data from 1880, 1900, 1910, 1920, and 1930, we find large effects of child labor laws on child labor. While the laws reduced labor from boys and girls in equal measure, the laws did had differential effects, binding in urban areas not rural and especially in the largest cities and more for the children of foreign-born parents. Children with parents working in manufacturing and textiles were especially affected by the labor restrictions. In contrast to the reduction of labor supply among white children, child labor laws had limited effects on the odds of African American boys or girls working.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Data</title>
       <link>https://gianlucarusso.github.io/data/</link>
       <pubDate>Wed, 18 Mar 2020 14:42:45 -0400</pubDate>
       <guid>https://gianlucarusso.github.io/data/</guid>
       <description>&lt;h1 id=&#34;page-under-construction&#34;&gt;Page under construction&lt;/h1&gt;
 &lt;p&gt;Here I want to post data I digitize or info on datasets&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CAS EC 204 Empirical Economics</title>
+      <link>https://gianlucarusso.github.io/classes/cas204/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://gianlucarusso.github.io/classes/cas204/</guid>
+      <description>&lt;p&gt;I have designed and taught EC 204 at Boston University as an Instructor during summer 2018 and summer 2019. The class focuses on the basics of linear regression analysis and hypothesis testing.&lt;/p&gt;
+&lt;p&gt;Send me an email if you are interested in seeing the evaluations.&lt;/p&gt;
+&lt;!-- ### Boston University Summer 2019
+
+- [CAS EC 204 Empirical Economics](https://gianlucarusso.github.io/JMP/Syll_EC204_SMR2_2019.pdf) (Evaluations available upon request)
+
+### Boston University Summer 2018
+
+- [CAS EC 204 Empirical Economics](https://gianlucarusso.github.io/JMP/Syll_EC204_SMR2_2019.pdf) (Evaluations available upon request) --&gt;
 </description>
     </item>
     
