@@ -3,17 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gianlucarusso.github.io/data_projects/radio_propagation/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gianlucarusso.github.io/tags/american-economic-history/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gianlucarusso.github.io/data_projects/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gianlucarusso.github.io/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gianlucarusso.github.io/tags/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gianlucarusso.github.io/tags/italian-economic-history/</loc>
     <lastmod>2020-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://gianlucarusso.github.io/workingpapers/</loc>
-    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gianlucarusso.github.io/tags/</loc>
     <lastmod>2020-04-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,11 +48,6 @@
   </url>
   
   <url>
-    <loc>https://gianlucarusso.github.io/tags/american-economic-history/</loc>
-    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gianlucarusso.github.io/workingpapers/radio/</loc>
     <lastmod>2020-04-05T00:00:00+00:00</lastmod>
   </url>
@@ -40,16 +55,6 @@
   <url>
     <loc>https://gianlucarusso.github.io/workingpapers/cll/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gianlucarusso.github.io/data/</loc>
-    <lastmod>2020-03-18T14:42:45-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gianlucarusso.github.io/</loc>
-    <lastmod>2020-03-18T14:42:45-04:00</lastmod>
   </url>
   
   <url>
@@ -63,7 +68,36 @@
   </url>
   
   <url>
+    <loc>https://gianlucarusso.github.io/classes/ec102/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gianlucarusso.github.io/classes/ec201/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gianlucarusso.github.io/classes/ec371/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gianlucarusso.github.io/tags/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gianlucarusso.github.io/data_projects_example/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gianlucarusso.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gianlucarusso.github.io/data_projects_example/external-project/</loc>
   </url>
   
   <url>
@@ -72,6 +106,10 @@
   
   <url>
     <loc>https://gianlucarusso.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gianlucarusso.github.io/data/</loc>
   </url>
   
   <url>
