@@ -17,7 +17,18 @@
       <link>https://gianlucarusso.github.io/data_projects/radio_propagation/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://gianlucarusso.github.io/data_projects/radio_propagation/</guid>
-      <description></description>
+      <description>&lt;!-- *cool cite*. --&gt;
+&lt;p&gt;The Golden Age of Radio in the United States signed a revolution of media access in the country.
+&lt;img align=&#34;right&#34; src=&#34;wells.png&#34;&gt;
+To study the effect of radio on American society during the interwar period I coded in R a model of ground wave propagation that, given the characteristics of the transmitting antenna and the distance of the receiver outputs the signal strength of the ground wave.
+The model takes into accounts ground conductivity that is the most important factor that affects the attenuation of the ground wave.&lt;/p&gt;
+&lt;!--
+Below the coverage of NBC in 1940 in the US at day time.
+
+![NBC coverage]() --&gt;
+&lt;p&gt;The technical details of AM radio propagation and the way I implemented the model are available 
+&lt;a href=&#34;https://gianlucarusso.github.io/gianlucarusso_radio_appendix.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. I am turning the code I wrote into an R package that will be available for download on Github soon.&lt;/p&gt;
+</description>
     </item>
     
     <item>

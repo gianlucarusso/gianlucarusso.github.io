@@ -41,7 +41,18 @@
       <link>https://gianlucarusso.github.io/data_projects/radio_propagation/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://gianlucarusso.github.io/data_projects/radio_propagation/</guid>
-      <description></description>
+      <description>&lt;!-- *cool cite*. --&gt;
+&lt;p&gt;The Golden Age of Radio in the United States signed a revolution of media access in the country.
+&lt;img align=&#34;right&#34; src=&#34;wells.png&#34;&gt;
+To study the effect of radio on American society during the interwar period I coded in R a model of ground wave propagation that, given the characteristics of the transmitting antenna and the distance of the receiver outputs the signal strength of the ground wave.
+The model takes into accounts ground conductivity that is the most important factor that affects the attenuation of the ground wave.&lt;/p&gt;
+&lt;!--
+Below the coverage of NBC in 1940 in the US at day time.
+
+![NBC coverage]() --&gt;
+&lt;p&gt;The technical details of AM radio propagation and the way I implemented the model are available 
+&lt;a href=&#34;https://gianlucarusso.github.io/gianlucarusso_radio_appendix.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. I am turning the code I wrote into an R package that will be available for download on Github soon.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -50,7 +61,13 @@
       <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://gianlucarusso.github.io/workingpapers/wwi/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;One of the key steps that allowed Mussolini to become the Italian Duce was the victory in the 1924 national elections. I study the impact of World War I on Mussolini&amp;rsquo;s electoral success. To gauge the effect of the war, I construct a measure of military casualties from the universe of Italian municipalities, which is matched to municipal level voting in the 1924 election. Controlling for the number of military drafted in an Italian municipality, variation in the share of casualties is induced by military events exogenous to municipality characteristics that could simultaneously affect support for Fascism. Using this conditional independence approach, I find that a higher share of casualties increases the vote share for Fascism. More than half of the increase in the vote share for Mussolini is matched by a decrease in the vote share of the Socialist party. I decompose the effect of the casualties rate by its intensity to show that the number of casualties interacted positively with the number of veterans back from the frontline. I interpret this as evidence that Fascist support was driven by municipalities where the high number of casualties was matched by veterans militarized and brutalized by the war experience.&lt;/p&gt;
+&lt;p&gt;One of the key steps that allowed Mussolini to become the Italian &lt;em&gt;Duce&lt;/em&gt; was the victory in the 1924 national elections.
+I study the impact of World War I on Mussolini&amp;rsquo;s electoral success. To gauge the effect of the war, I construct a measure of military fatalities from the universe of Italian municipalities, which is matched to municipal level voting in the 1924 election.
+Controlling for the number of military drafted in an Italian municipality, variation in the share of fatalities is induced by military events exogenous to municipality characteristics that could simultaneously affect support for Fascism.
+Using this conditional independence approach, I find that a higher share of fatalities increases the vote share for Fascism. More than half of the increase in the vote share for Mussolini is matched by a decrease in the vote share of the Socialist party.
+I decompose the effect of the fatalities rate by its intensity to show persuasive evidence that the number of fatalities interacted positively with the number of veterans back from the frontline.
+As to the mechanism, I show that the effect of fatalities is driven by municipalities that in 1921 had above median vote shares for the Socialist party.
+This is consistent with historical narratives arguing that the initial rise of Mussolini was facilitated and acclaimed by fear of a Socialist revolution in Italy.&lt;/p&gt;
 </description>
     </item>
     
