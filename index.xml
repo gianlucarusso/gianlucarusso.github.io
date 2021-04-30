@@ -1,21 +1,57 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gianluca Russo</title>
+    <title>Posts | Gianluca Russo</title>
     <link>https://gianlucarusso.github.io/</link>
       <atom:link href="https://gianlucarusso.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Gianluca Russo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gianlucarusso.github.io/images/icon_hud3c4f4215db4e1df4afdcacbbae4761e_411935_512x512_fill_lanczos_center_2.png</url>
-      <title>Gianluca Russo</title>
+      <title>Posts</title>
       <link>https://gianlucarusso.github.io/</link>
     </image>
     
     <item>
+      <title>Media and Assimilation: Evidence from the Golden Age of Radio (2021)</title>
+      <link>https://gianlucarusso.github.io/project/radio/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://gianlucarusso.github.io/project/radio/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In this paper, I argue that exposure to mainstream mass media facilitates immigrants&amp;rsquo; assimilation. I exploit the rise and expansion of radio broadcasting in the United States after the Age of Mass Migration ended to identify the effect of radio exposure on immigrants&amp;rsquo; assimilation.
+I reconstruct radio signal strength and years of exposure to radio via a novel propagation model suitable to AM radio, the only radio technology available at the time.
+Exploiting the US full count census, I follow pseudo-cohorts of immigrants that are introduced to radio networks and study their naming and wedding patterns.
+I find that radio networks had a strong effect on immigrants&amp;rsquo; assimilation.
+Cohorts exposed longer to radio networks were more likely to marry US born citizens from US born parents. Children of immigrant households exposed to larger network signal had names that were distinctively less foreign.
+Focusing on names from baseball players, I suggest that aspiration is a key mechanism to explain why radio promoted assimilation. Immigrant households named children only after players that performed particularly well during the season, suggesting they were &amp;lsquo;&amp;lsquo;naming for success.&amp;rsquo;&amp;rsquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Echo Chambers: Does Online Network Structure Affect Political Polarization? (2021)</title>
+      <link>https://gianlucarusso.github.io/publications/facebook/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://gianlucarusso.github.io/publications/facebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outmigration and Economic Development: Evidence from the Italian Mass Migration (2020)</title>
+      <link>https://gianlucarusso.github.io/publications/outmigration/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://gianlucarusso.github.io/publications/outmigration/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Does emigration affect economic development? We study this question in the context of the Italian mass emigration between 1884 and 1913, when twelve million Italians left the country.
+We assemble a unique dataset at the municipality level, linking cumulative emigration rates to a number of indicators of economic development throughout the twentieth century.
+Exploiting variation in the availability of information about the potential gains from migration before the start of mass migration, we construct an instrumental variable for the total emigration rate.
+Results indicate that while instrumented cumulative emigration was balanced on population before the start of mass emigration, it had a negative, large, and highly persistent effect on short and long run population. Historical mass emigration also reduced educational attainment, income per capita and other proxies of economic development in the long run. Further, we show that emigration favored the expansion of the agricultural sector, at the expense of manufacturing. We speculate that selective emigration was a key mechanism behind our results.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>War, Socialism and the Rise of Fascism: An Empirical Exploration (2020)</title>
       <link>https://gianlucarusso.github.io/project/wwi/</link>
-      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://gianlucarusso.github.io/project/wwi/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;The recent ascent of right-wing populist movements in many countries has rekindled interest in understanding the causes of the rise of Fascism in
@@ -85,16 +121,6 @@ Below the coverage of NBC in 1940 in the US at day time.
 ![NBC coverage]() --&gt;
 &lt;p&gt;The technical details of AM radio propagation and the way I implemented the model are available 
 &lt;a href=&#34;https://gianlucarusso.github.io/gianlucarusso_radio_appendix.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. I am turning the code I wrote into an R package that will be available for download on Github soon.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mass Media and Cultural Assimilation: Broadcasting the American Dream on Radio (2020)</title>
-      <link>https://gianlucarusso.github.io/project/radio/</link>
-      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://gianlucarusso.github.io/project/radio/</guid>
-      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Does media shape culture? I leverage the expansion of radio networks in the United States to identify the impact of access to mass media on cultural assimilation and homogenization. I reconstruct radio network access via a signal propagation model suitable to AM radio, the only radio technology available at the time. I determine what radio channels were available to American households by feeding the propagation model with newly digitized data on the universe of transmitting stations during the interwar period. I combine radio network coverage with several measures of cultural change based on naming patterns for children. Exploiting exogenous variation in radio signal reception induced by soil characteristics and stations&amp;rsquo; tower growth over time, I provide evidence that network access homogenized American culture. Homogenization occurred through the assimilation of white immigrant and black households towards mainstream white native culture. Assimilation is strongest for immigrant families: foreign parents were six percent more likely to name their sons using popular white names after network access. Focusing on names from baseball players, I suggest that aspirational naming is a key mechanism to explain certain features of the results. While foreign households picked from the full distribution of baseball names, native families chose names exclusively from the most successful, those featured in the All-Star games. Thus, in addition to diffusing information, the radio has subtler effects, increasing the likelihood of &amp;ldquo;naming for success&amp;rdquo;&lt;/p&gt;
 </description>
     </item>
     
