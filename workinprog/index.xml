@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workinprogs | Gianluca Russo</title>
+    <link>https://gianlucarusso.github.io/workinprog/</link>
+      <atom:link href="https://gianlucarusso.github.io/workinprog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Workinprogs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gianlucarusso.github.io/images/icon_hud3c4f4215db4e1df4afdcacbbae4761e_411935_512x512_fill_lanczos_center_2.png</url>
+      <title>Workinprogs</title>
+      <link>https://gianlucarusso.github.io/workinprog/</link>
+    </image>
+    
+    <item>
+      <title>Echo Chambers: Does Online Network Structure Affect Political Polarization?</title>
+      <link>https://gianlucarusso.github.io/workinprog/facebook/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://gianlucarusso.github.io/workinprog/facebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Economic Effects of Post-Conflict Reconciliation: Evidence from South Africa</title>
+      <link>https://gianlucarusso.github.io/workinprog/trc/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://gianlucarusso.github.io/workinprog/trc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outmigration and Economic Development: Evidence from the Italian Mass Migration</title>
+      <link>https://gianlucarusso.github.io/workinprog/outmigration/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://gianlucarusso.github.io/workinprog/outmigration/</guid>
+      <description>&lt;!---
+## Abstract
+
+Does emigration affect economic development? We study this question in the context of the Italian mass emigration between 1884 and 1913, when twelve million Italians left the country.
+We assemble a unique dataset at the municipality level, linking cumulative emigration rates to a number of indicators of economic development throughout the twentieth century.
+Exploiting variation in the availability of information about the potential gains from migration before the start of mass migration, we construct an instrumental variable for the total emigration rate.
+Results indicate that while instrumented cumulative emigration was balanced on population before the start of mass emigration, it had a negative, large, and highly persistent effect on short and long run population. Historical mass emigration also reduced educational attainment, income per capita and other proxies of economic development in the long run. Further, we show that emigration favored the expansion of the agricultural sector, at the expense of manufacturing. We speculate that selective emigration was a key mechanism behind our results.
+</description>
+    </item>
+    
+  </channel>
+</rss>
