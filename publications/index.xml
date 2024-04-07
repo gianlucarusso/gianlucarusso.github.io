@@ -13,14 +13,38 @@
     </image>
     
     <item>
-      <title>Media and Assimilation: Evidence from the Golden Age of Radio (2021)</title>
+      <title>Media and Assimilation: Evidence from the Golden Age of Radio (2024)</title>
       <link>https://gianlucarusso.github.io/publications/radio/</link>
       <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://gianlucarusso.github.io/publications/radio/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;In this paper, I argue that exposure to mainstream mass media facilitates immigrants&amp;rsquo; assimilation. I exploit the rise and expansion of radio broadcasting in the United States after the Age of Mass Migration ended to identify the effect of radio exposure on immigrants&amp;rsquo; assimilation.
-I reconstruct exogenous exposure to radio networks using a novel propagation model suitable to AM radio, the only radio technology available at the time.
-Exploiting the US full count census, I find that radio networks had a strong effect on immigrants&amp;rsquo; assimilation. Immigrants exposed to radio networks exerted higher effort to assimilate by naming their children with less distinctively foreign names and by becoming US citizens more often. Exposure to US radio networks also increased the likelihood of marrying a US citizen from US-born parents. Using names from baseball players, I show that aspiration might have been a key mechanism to explain why radio promoted assimilation. Immigrant households named their children exclusively after players that performed particularly well during the season, suggesting they were &amp;lsquo;naming for success.&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;The advent of the radio networks in the early twentieth century marked the inception
+of the first national media platform in US history. This development coincided
+with the conclusion of the Age of Mass Migration, a historical period characterized by
+record-high diversity within the US society. How did the sudden rise of national radio
+networks affect the assimilation of millions of immigrants in the US? I answer this
+question by building quasi-random variation in the initial expansion of radio networks
+coverage. Through the application of a difference-in-difference design and leveraging
+evidence from diverse samples, I document that higher exposure to radio networks
+facilitated immigrant assimilation across various outcomes, including higher rates of
+intermarriage with natives, increased naturalization, and a greater propensity to adopt
+names that sounded less foreign. Additionally, I find that exposure to radio networks
+led to enhanced English proficiency among recently arrived immigrants. I argue that a
+key channel of assimilation was through the impact of role models on the media. Using
+data on baseball, I show that immigrants perceived baseball players as media role
+models of assimilation. Immigrant households were more likely to name their children
+after baseball players who shared similar ancestral origins to them or who achieved
+notable success during a season.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Socializing Alone: How Online Homophily Has Undermined Social Cohesion in the US (2024)</title>
+      <link>https://gianlucarusso.github.io/publications/facebook/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://gianlucarusso.github.io/publications/facebook/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Online social networks have changed how people interact across large distances. We examine the long-run effect of a key feature of these networks - online homophily - on interpersonal interactions in local communities. Using Facebook data, we measure online homophily across counties in the United States. To identify effects, we exploit a conflict between Facebook and Google in the early expansion phase of Facebook, which induced persistent variation in online homophily across counties. Using various online and offline behavior measures, we find evidence that local social interactions have been affected. In particular, homophilic connections made people use Facebook more often but socialize less offline, as measured through bar, restaurant, and live sports events visits. Individuals have also become less connected across the income strata. Political opinions within counties became more diverse, with a lower probability that two county voters support the same political party. Overall, our results indicate that when a natural demand for connecting with socially similar people is met by the supply of a ‘death-of-distance’ technology, it comes at the cost of short-distance social cohesion.&lt;/p&gt;
 </description>
     </item>
     
