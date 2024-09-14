@@ -5,7 +5,7 @@
     <link>https://gianlucarusso.github.io/publications/</link>
       <atom:link href="https://gianlucarusso.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gianlucarusso.github.io/images/icon_hud3c4f4215db4e1df4afdcacbbae4761e_411935_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,9 +13,18 @@
     </image>
     
     <item>
+      <title>Socializing Alone: How Online Homophily Has Undermined Social Cohesion in the US (2024)</title>
+      <link>https://gianlucarusso.github.io/publications/facebook/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://gianlucarusso.github.io/publications/facebook/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p align=&#34;justify&#34;&gt;  Online social networks have changed how people interact across large distances. We examine the long-run effect of a key feature of these networks – online homophily – on interpersonal interactions in local communities. Using Facebook data, we measure online homophily across counties in the United States. To identify effects, we exploit a conflict between Facebook and Google over data sharing of user information in the early expansion phase of Facebook, which induced variation in the ability to connect with friends in socially similar counties. We find evidence that homophilic connections led to increased Facebook usage but reduced offline socialization, as measured by visits to bars, restaurants, and live sports events. The effects are substantial: we estimate that a one-standard deviation increase in online homophily led to a 60-70% long-run increase in social media usage and approximately a 25% reduction in offine socialization. This shift was accompanied by a deterioration of local social cohesion, as individuals became less connected across income strata and less likely to share the same political opinions with others in their counties. Overall, our results indicate that when a natural demand for connecting with socially similar people is met by the supply of a &#39;death-of-distance&#39; technology, it comes at the cost of social cohesion and traditional community bonds at the local level.</description>
+    </item>
+    
+    <item>
       <title>Media and Assimilation: Evidence from the Golden Age of Radio (2024)</title>
       <link>https://gianlucarusso.github.io/publications/radio/</link>
-      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://gianlucarusso.github.io/publications/radio/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p align=&#34;justify&#34;&gt; The advent of the radio networks in the early twentieth century marked the inception
@@ -35,15 +44,6 @@ data on baseball, I show that immigrants perceived baseball players as media rol
 models of assimilation. Immigrant households were more likely to name their children
 after baseball players who shared similar ancestral origins to them or who achieved
 notable success during a season.</description>
-    </item>
-    
-    <item>
-      <title>Socializing Alone: How Online Homophily Has Undermined Social Cohesion in the US (2024)</title>
-      <link>https://gianlucarusso.github.io/publications/facebook/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://gianlucarusso.github.io/publications/facebook/</guid>
-      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
-&lt;p align=&#34;justify&#34;&gt;  Online social networks have changed how people interact across large distances. We examine the long-run effect of a key feature of these networks - online homophily - on interpersonal interactions in local communities. Using Facebook data, we measure online homophily across counties in the United States. To identify effects, we exploit a conflict between Facebook and Google in the early expansion phase of Facebook, which induced persistent variation in online homophily across counties. Using various online and offline behavior measures, we find evidence that local social interactions have been affected. In particular, homophilic connections made people use Facebook more often but socialize less offline, as measured through bar, restaurant, and live sports events visits. Individuals have also become less connected across the income strata. Political opinions within counties became more diverse, with a lower probability that two county voters support the same political party. Overall, our results indicate that when a natural demand for connecting with socially similar people is met by the supply of a ‘death-of-distance’ technology, it comes at the cost of short-distance social cohesion.</description>
     </item>
     
     <item>
