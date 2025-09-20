@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Building States Through Public Truth-Telling (2024)</title>
+      <title>The Trade-Offs of Nation-Building through Transitional Justice (2025)</title>
       <link>https://gianlucarusso.github.io/publications/trc/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://gianlucarusso.github.io/publications/trc/</guid>
@@ -23,12 +23,24 @@ trauma, and intergroup violence? We study the effect of one of the most iconic e
     </item>
     
     <item>
-      <title>Socializing Alone: How Online Homophily Has Undermined Social Cohesion in the US (2024)</title>
+      <title>Socializing Alone: How Online Homophily Has Undermined Social Cohesion in the US (2025)</title>
       <link>https://gianlucarusso.github.io/publications/facebook/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://gianlucarusso.github.io/publications/facebook/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p align=&#34;justify&#34;&gt;  Online social networks have changed how people interact across large distances. We examine the long-run effect of a key feature of these networks – online homophily – on interpersonal interactions in local communities. Using Facebook data, we measure online homophily across counties in the United States. To identify effects, we exploit a conflict between Facebook and Google over data sharing of user information in the early expansion phase of Facebook, which induced variation in the ability to connect with friends in socially similar counties. We find evidence that homophilic connections led to increased Facebook usage but reduced offline socialization, as measured by visits to bars, restaurants, and live sports events. The effects are substantial: we estimate that a one-standard deviation increase in online homophily led to a 60-70% long-run increase in social media usage and approximately a 25% reduction in offine socialization. This shift was accompanied by a deterioration of local social cohesion, as individuals became less connected across income strata and less likely to share the same political opinions with others in their counties. Overall, our results indicate that when a natural demand for connecting with socially similar people is met by the supply of a &#39;death-of-distance&#39; technology, it comes at the cost of social cohesion and traditional community bonds at the local level.</description>
+    </item>
+    
+    <item>
+      <title>Outmigration and Economic Development: Evidence from the Italian Mass Migration</title>
+      <link>https://gianlucarusso.github.io/publications/outmigration/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://gianlucarusso.github.io/publications/outmigration/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p align=&#34;justify&#34;&gt;  Does emigration affect economic development? We study this question in the context of the Italian mass emigration between 1884 and 1913, when twelve million Italians left the country.
+We assemble a unique dataset at the municipality level, linking cumulative emigration rates to a number of indicators of economic development throughout the twentieth century.
+Exploiting variation in the availability of information about the potential gains from migration before the start of mass migration, we construct an instrumental variable for the total emigration rate.
+Results indicate that while instrumented cumulative emigration was balanced on population before the start of mass emigration, it had a negative, large, and highly persistent effect on short and long run population. Historical mass emigration also reduced educational attainment, income per capita and other proxies of economic development in the long run. Further, we show that emigration favored the expansion of the agricultural sector, at the expense of manufacturing. We speculate that selective emigration was a key mechanism behind our results.</description>
     </item>
     
     <item>
