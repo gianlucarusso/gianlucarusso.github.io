@@ -13,13 +13,14 @@
     </image>
     
     <item>
-      <title>The Trade-Offs of Nation-Building through Transitional Justice (2025)</title>
+      <title>Nation-Building through Transitional Justice (2025)</title>
       <link>https://gianlucarusso.github.io/publications/trc/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://gianlucarusso.github.io/publications/trc/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
-&lt;p align=&#34;justify&#34;&gt;  How do states rebuild after decades of institutionalized oppression, deep societal
-trauma, and intergroup violence? We study the effect of one of the most iconic examples of transitional justice, the South African Truth and Reconciliation Commission (TRC), which attempted to rebuild South African society through public truth-telling. We reconstruct exposure to live broadcasting of the TRC across South African suburbs to generate quasi-exogenous variation in media coverage of the TRC hearings. We demonstrate that while the TRC fostered unity among Black South Africans, it also weakened interracial relations. In particular, we document increased segregation, lower interracial marriage rates, and reduced interracial trust. Additionally, we leverage administrative tax data to argue that the TRC hindered the implementation of affirmative action policies aimed at workplace integration. Finally, we suggest that these effects stem from Whites adjusting their beliefs about judicial bias: using daily variation in hearing content, we observe increased backlash among White South Africans whenever a White perpetrator is scrutinized by the court.</description>
+&lt;p align=&#34;justify&#34;&gt;  How do societies rebuild after decades of institutionalized oppression, deep trauma, and intergroup violence? We study one of the most prominent cases of transitional justice---the South African Truth and Reconciliation Commission (TRC)---which sought to rebuild the nation by publicly documenting and broadcasting human rights violations committed under
+apartheid. Using quasi-exogenous variation in exposure to live TRC broadcasts across South African suburbs, we show that the TRC fostered unity among Black South Africans while weakening interracial relations. Specifically, exposure to TRC increased ingroup cohesion among Blacks, reflected in lower interethnic violence and stronger national identity, while heightening exclusionary identities among Whites. Over time, these effects shaped social contact: TRC exposure led to greater intra-Black spatial integration and interethnic marriages, but fewer interracial marriages and greater racial segregation. Using administrative tax data, we further show that the TRC reduced the efficiency of affirmative action policies designed to redress apartheid-era discrimination. Finally, content analysis of the hearings reveals that emotional resonance across ethnic lines---rather than information transmission---was the key mechanism behind the rise of Black nation-building.
+</description>
     </item>
     
     <item>
@@ -32,7 +33,7 @@ trauma, and intergroup violence? We study the effect of one of the most iconic e
     </item>
     
     <item>
-      <title>Outmigration and Economic Development: Evidence from the Italian Mass Migration</title>
+      <title>Outmigration and Economic Development: Evidence from the Italian Mass Migration (2025)</title>
       <link>https://gianlucarusso.github.io/publications/outmigration/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://gianlucarusso.github.io/publications/outmigration/</guid>
@@ -44,9 +45,9 @@ Results indicate that while instrumented cumulative emigration was balanced on p
     </item>
     
     <item>
-      <title>Media and Assimilation: Evidence from the Golden Age of Radio (2024)</title>
+      <title>Media and Assimilation: Evidence from the Golden Age of Radio (2025)</title>
       <link>https://gianlucarusso.github.io/publications/radio/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://gianlucarusso.github.io/publications/radio/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p align=&#34;justify&#34;&gt; The advent of the radio networks in the early twentieth century marked the inception
@@ -66,6 +67,16 @@ data on baseball, I show that immigrants perceived baseball players as media rol
 models of assimilation. Immigrant households were more likely to name their children
 after baseball players who shared similar ancestral origins to them or who achieved
 notable success during a season.</description>
+    </item>
+    
+    <item>
+      <title>The Legacy of the Reconquesta on Class Conflict (2025)</title>
+      <link>https://gianlucarusso.github.io/publications/class/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://gianlucarusso.github.io/publications/class/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p align=&#34;justify&#34;&gt;  We study how historical inequality shape long-run political preferences. Our setting is Catalonia, where Christian counts expanded southward into Al-Andalus between the ninth and eleventh centuries at heterogeneous speeds, creating a frontier whose location was driven by idiosyncratic military events. Using a spatial regression discontinuity design comparing municipalities on either side of this frontier, we find that areas conquered more rapidly display persistently stronger support for the radical left. Southern municipalities show higher vote shares for radical-left parties in all democratic elections since 1977, a greater historical presence of anarcho-syndicalist and communist organizations, and more frequent protest activity. These patterns extend back to the Second Republic and the Spanish Civil War, including differences in militias, collectivization, and repression. We trace these effects to the resettlement process in fast-conquered territories, which produced concentrated landholding, weaker state capacity, and a large class of landless peasants. Our findings show how inequality under weak political authority can generate lasting radical political identities.
+</description>
     </item>
     
     <item>
